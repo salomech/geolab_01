@@ -12,3 +12,16 @@ nav{
 .container{
  font-family: 'Charmonman';
 }
+.icons{
+	font-size:45px;
+	color:green;
+	padding-left:100px;
+}
+.icons:hover{
+	
+	color:blue;
+}
+.cont{
+	padding-left: 250px;
+	padding-top: 30px;
+}
