@@ -1,0 +1,14 @@
+.service {
+	height: 250px;
+	border: 1px solid brown;
+	background-color:#bdbdc9;
+}
+img{
+	width: 100%;
+}
+nav{
+	font-family: "ALK Life", sans-serif;
+}
+.container{
+ font-family: 'Charmonman';
+}
