@@ -5,6 +5,8 @@
 }
 img{
 	width: 100%;
+    object-fit: cover;
+	height: 550px;
 }
 nav{
 	font-family: "ALK Life", sans-serif;
