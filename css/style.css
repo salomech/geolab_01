@@ -17,19 +17,24 @@ nav{
 .icons{
 	font-size:45px;
 	color:green;
-	padding-left:100px;
+	padding-left:500px;
 }
 .icons:hover{
 	
 	color:blue;
 }
 .cont{
-	padding-left: 250px;
+	padding-left: 400px;
 	padding-top: 30px;
 }
 .service img {
 	height: 100px;
 	width: 35px;
+}
+.btn{
+	padding-right:100px;
+	font-size: 20px;
+
 }
 .send-bg {
 	background-color: green;
@@ -38,6 +43,7 @@ nav{
 .send-bg:hover{
 background-color:red;
 }
+
 /*.banner{
 	position: absolute;
 	top: 20%;
