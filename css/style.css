@@ -11,7 +11,7 @@ img{
 nav{
 	font-family: "ALK Life", sans-serif;
 }
-.container{
+.services .container{
  font-family: 'Charmonman';
 }
 .icons{
@@ -27,3 +27,23 @@ nav{
 	padding-left: 250px;
 	padding-top: 30px;
 }
+.service img {
+	height: 100px;
+	width: 35px;
+}
+.send-bg {
+	background-color: green;
+		}
+
+.send-bg:hover{
+background-color:red;
+}
+/*.banner{
+	position: absolute;
+	top: 20%;
+	font-size: 30px;
+	background-color: green;
+}
+/*.text-on-image{
+	position: absolute;
+}*/*/
